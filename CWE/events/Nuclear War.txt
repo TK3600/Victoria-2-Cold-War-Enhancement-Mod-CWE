@@ -58,7 +58,7 @@ add_country_modifier = { name = recently_attacked_nuke duration = 31 }
 
 add_country_modifer = { name = nuke_fallout duration = 18250 }
 
-#any_pop = { reduce_pop = 0.90 }
+#any_pop = { reduce_pop = 0.2 }
 
 set_country_flag = has_nuke_clouds
 
@@ -106,7 +106,7 @@ add_country_modifier = { name = recently_attacked_nuke duration = 31 }
 
 add_country_modifier = { name = nuke_fallout duration = 27375 }
 
-#any_pop = { reduce_pop = 0.80 }
+#any_pop = { reduce_pop = 0.35 }
 
 set_country_flag = has_nuke_clouds
 
@@ -137,7 +137,7 @@ naval_base = -4
 fort = -4
 }
 
-any_pop = { reduce_pop = 0.80 }
+any_pop = { reduce_pop = 0.55 }
 
 		}
 
