@@ -39,13 +39,13 @@ modern_cruiser = {
 	supply_consumption = 1.0
 	#cost 1B
 	supply_cost = {
-		ammunition = 4
+		ammunition = 2
 		fuel = 8
 		canned_food = 1.6
 		clothes = 0.2
 		footwear = 0.2
 		ships = 1
-		weaponry = 1.2
+		weaponry = 0.6
 	}
 	
 	#Naval Abilties
